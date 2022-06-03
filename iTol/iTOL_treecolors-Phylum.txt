@@ -1,0 +1,67 @@
+TREE_COLORS
+SEPARATOR TAB
+COLOR	#a6cee3
+DATASET_LABEL	Phylum
+LEGEND_COLORS	#a6cee3	#1f78b4	#b2df8a	#33a02c	#fb9a99	#e31a1c	#fdbf6f
+LEGEND_LABELS	Actinobacteria	Bacteroidetes	Firmicutes	Fusobacteria	Lentisphaerae	Proteobacteria	Verrucomicrobia
+LEGEND_SHAPES	1	1	1	1	1	1	1
+LEGEND_TITLE	Phylum
+DATA
+Alc_Sutterella	range	#e31a1c	Proteobacteria
+Bac_Bacteroides	range	#1f78b4	Bacteroidetes
+Bar_Barnesiella	range	#1f78b4	Bacteroidetes
+Bif_Bifidobacterium	range	#a6cee3	Actinobacteria
+Chr_Christensenellaceae_Group	range	#b2df8a	Firmicutes
+Clo_Clostridium	range	#b2df8a	Firmicutes
+Cor_Collinsella	range	#a6cee3	Actinobacteria
+Des_Bilophila	range	#e31a1c	Proteobacteria
+Ent_Citrobacter	range	#e31a1c	Proteobacteria
+Ent_Enterobacter	range	#e31a1c	Proteobacteria
+Ent_Enterobacteriaceae_Group	range	#e31a1c	Proteobacteria
+Ent_Escherichia_Shigella	range	#e31a1c	Proteobacteria
+Ent_Klebsiella	range	#e31a1c	Proteobacteria
+Ent_Pantoea	range	#e31a1c	Proteobacteria
+Ery_Erysipelotrichaceae_Group	range	#b2df8a	Firmicutes
+Lac_Anaerostipes	range	#b2df8a	Firmicutes
+Lac_Blautia	range	#b2df8a	Firmicutes
+Lac_Coprococcus	range	#b2df8a	Firmicutes
+Lac_Dorea	range	#b2df8a	Firmicutes
+Lac_Eubacterium	range	#b2df8a	Firmicutes
+Lac_Fusicatenibacter	range	#b2df8a	Firmicutes
+Lac_Lachnoclostridium	range	#b2df8a	Firmicutes
+Lac_Lachnospira	range	#b2df8a	Firmicutes
+Lac_Lachnospiraceae_Group	range	#b2df8a	Firmicutes
+Lac_Moryella	range	#b2df8a	Firmicutes
+Lac_Pseudobutyrivibrio	range	#b2df8a	Firmicutes
+Lac_Roseburia	range	#b2df8a	Firmicutes
+Lac_Ruminococcus	range	#b2df8a	Firmicutes
+Lep_Leptotrichia	range	#33a02c	Fusobacteria
+Odo_Butyricimonas	range	#1f78b4	Bacteroidetes
+Odo_Odoribacter	range	#1f78b4	Bacteroidetes
+Par_Paraprevotella	range	#1f78b4	Bacteroidetes
+Pas_Haemophilus	range	#e31a1c	Proteobacteria
+Pep_Intestinibacter	range	#b2df8a	Firmicutes
+Pep_Peptoclostridium	range	#b2df8a	Firmicutes
+Por_Coprobacter	range	#1f78b4	Bacteroidetes
+Por_Parabacteroides	range	#1f78b4	Bacteroidetes
+Pre_Prevotella	range	#1f78b4	Bacteroidetes
+Rhi_Agrobacterium	range	#e31a1c	Proteobacteria
+Rho_Thalassospira	range	#e31a1c	Proteobacteria
+Rik_Alistipes	range	#1f78b4	Bacteroidetes
+Rum_Anaerotruncus	range	#b2df8a	Firmicutes
+Rum_Eubacterium	range	#b2df8a	Firmicutes
+Rum_Faecalibacterium	range	#b2df8a	Firmicutes
+Rum_Oscillospira	range	#b2df8a	Firmicutes
+Rum_Ruminiclostridium	range	#b2df8a	Firmicutes
+Rum_Ruminococcaceae_Group	range	#b2df8a	Firmicutes
+Rum_Ruminococcus	range	#b2df8a	Firmicutes
+Rum_Subdoligranulum	range	#b2df8a	Firmicutes
+S24_S24_7_Group	range	#1f78b4	Bacteroidetes
+Sph_Kaistobacter	range	#e31a1c	Proteobacteria
+Str_Streptococcus	range	#b2df8a	Firmicutes
+Vei_Dialister	range	#b2df8a	Firmicutes
+Vei_Megamonas	range	#b2df8a	Firmicutes
+Vei_Phascolarctobacterium	range	#b2df8a	Firmicutes
+Vei_Veillonella	range	#b2df8a	Firmicutes
+Ver_Akkermansia	range	#fdbf6f	Verrucomicrobia
+Vic_Victivallis	range	#fb9a99	Lentisphaerae

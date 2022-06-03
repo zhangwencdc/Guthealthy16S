@@ -1,0 +1,51 @@
+DATASET_SIMPLEBAR
+SEPARATOR TAB
+COLOR	#000000
+DATASET_LABEL	Short-term bloom
+LEGEND_COLORS	#000000
+LEGEND_LABELS	Min. (1), Max. (10)
+LEGEND_SHAPES	1
+LEGEND_TITLE	Short-term bloom
+MARGIN	5
+WIDTH	200
+DATA
+Bar_Barnesiella	2
+Bif_Bifidobacterium	3
+Chr_Christensenellaceae_Group	3
+Clo_Clostridium	4
+Cor_Collinsella	3
+Des_Bilophila	1
+Ent_Citrobacter	5
+Ent_Enterobacter	8
+Ent_Enterobacteriaceae_Group	5
+Ent_Escherichia_Shigella	10
+Ent_Klebsiella	10
+Ent_Pantoea	6
+Ery_Erysipelotrichaceae_Group	7
+Lac_Blautia	2
+Lac_Coprococcus	3
+Lac_Eubacterium	1
+Lac_Fusicatenibacter	1
+Lac_Lachnoclostridium	1
+Lac_Lachnospira	2
+Lac_Moryella	1
+Lac_Pseudobutyrivibrio	1
+Lac_Ruminococcus	1
+Odo_Odoribacter	1
+Par_Paraprevotella	1
+Pas_Haemophilus	5
+Pep_Intestinibacter	8
+Pep_Peptoclostridium	4
+Por_Coprobacter	2
+Pre_Prevotella	2
+Rho_Thalassospira	4
+Rik_Alistipes	2
+Rum_Eubacterium	4
+Rum_Subdoligranulum	1
+S24_S24_7_Group	2
+Str_Streptococcus	4
+Vei_Dialister	4
+Vei_Phascolarctobacterium	3
+Vei_Veillonella	2
+Ver_Akkermansia	7
+Vic_Victivallis	5
